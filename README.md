@@ -1,1 +1,1 @@
-# code of feture selection
+# code of feature selection
